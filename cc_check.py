@@ -58,5 +58,5 @@ report_output = '\n'.join(invalid_cc_list)
 report_output = "INVALID CREDIT CARD REPORT FOR " + dt_string + '\n\n' + report_output
 print(report_output)  # Print it out to the screen.
 # When you're ready to write your report out to file, uncomment that last line
-Datasets.create("Z09974.OUTPUT.CCINVALD","SEQ")
-Datasets.write("Z09974.OUTPUT.CCINVALD",report_output)
+Datasets.create("Z*****.OUTPUT.CCINVALD","SEQ")
+Datasets.write("Z*****.OUTPUT.CCINVALD",report_output)
