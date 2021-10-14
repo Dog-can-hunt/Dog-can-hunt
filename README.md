@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dog-can-hunt
-- 👀 I’m interested in mainframes, the cloud, and hybrid systems.
-- 🌱 I’m currently learning z/OS, python scripting, and COBOL.
+- 👋 Hi, I’m @Dog-can-hunt,
+- 👀 I’m interested in mainframes, and the cloud,
+- 🌱 I’m currently learning Cloud Computing,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
